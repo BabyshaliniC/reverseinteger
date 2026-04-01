@@ -1,1 +1,1 @@
-It is to reverse th einteger number fot leetcode problem.
+It is to reverse the integer number for leetcode problem.
